@@ -13,9 +13,7 @@ const gameOverText = document.getElementById("game-over-text");
 const playAgain = document.getElementById("play-again");
 playAgain.addEventListener("click", startNewGame);
 
-//Sounds
-const gameOverSound = new Audio("sounds/game_over.wav");
-const clickSound = new Audio("sounds/click.wav");
+
 
 tiles.forEach((tile) => tile.addEventListener("click", tileClick));
 
@@ -58,7 +56,7 @@ function tileClick(event) {
     turn = PLAYER_X;
   }
 
-  clickSound.play();
+  
   setHoverText();
   checkWinner();
 }
@@ -97,7 +95,7 @@ function gameOverScreen(winnerText) {
   }
   gameOverArea.className = "visible";
   gameOverText.innerText = text;
-  gameOverSound.play();
+  
 }
 
 function startNewGame() {
