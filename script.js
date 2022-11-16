@@ -95,7 +95,7 @@ function gameOverScreen(winnerText) {
   }
   gameOverArea.className = "visible";
   gameOverText.innerText = text;
-  
+ 
 }
 
 function startNewGame() {
