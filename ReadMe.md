@@ -23,6 +23,9 @@ b. If no one can create a straight line with their own mark and all the position
 
 ## Implementation Plan
 
+![flow-chart](https://user-images.githubusercontent.com/114605341/202545570-6a855834-ee14-4e44-91f6-1c08db609c85.png)
+
+
 
 ## Build status
 Project is a static HTML/CSS/JS web site that is deployed directly from the GitHub respository via GitHub Pages.
@@ -34,6 +37,7 @@ object-oriented programming (JavaScript) used in this project.
  
 ## Screenshots
 
+<img width="257" alt="winx" src="https://user-images.githubusercontent.com/114605341/202545718-fca3649e-849b-4a68-b8e3-718beb6357ee.png">
 
 
 ## Tech/framework used
