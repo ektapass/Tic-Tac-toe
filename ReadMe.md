@@ -69,6 +69,7 @@ Step 1: Clone the repository
 Run the following code in your terminal to download the code:
 
 git clone https://github.com/ektapass/Tic-tac-toe.git
+<img width="681" alt="Screenshot_20221117_031725" src="https://user-images.githubusercontent.com/114605341/202551171-402b57b0-4c8c-45c8-9741-345fd1066fb9.png">
 
 
 
