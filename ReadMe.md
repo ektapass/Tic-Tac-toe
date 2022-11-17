@@ -39,6 +39,11 @@ object-oriented programming (JavaScript) used in this project.
 
 <img width="257" alt="winx" src="https://user-images.githubusercontent.com/114605341/202545718-fca3649e-849b-4a68-b8e3-718beb6357ee.png">
 
+<img width="270" alt="wino" src="https://user-images.githubusercontent.com/114605341/202546023-389e4415-f5b7-42d0-b911-0b854dd4dac0.png">
+
+<img w<img width="277" alt="Draw" src="https://user-images.githubusercontent.com/114605341/202546183-e1cbc9e8-776f-45a6-b8d7-5f4b2bb2a3ab.png">
+
+
 
 ## Tech/framework used
 - JavaScript
@@ -46,6 +51,7 @@ object-oriented programming (JavaScript) used in this project.
 + CSS
 - JavaScript features
   * Functions
+
   + Arrays
 
 ## Features
