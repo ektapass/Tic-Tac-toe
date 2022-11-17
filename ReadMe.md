@@ -40,6 +40,10 @@ object-oriented programming (JavaScript) used in this project.
 <img width="257" alt="winx" src="https://user-images.githubusercontent.com/114605341/202545718-fca3649e-849b-4a68-b8e3-718beb6357ee.png">
 
 
+<img width="270" alt="wino" src="https://user-images.githubusercontent.com/114605341/202548481-e87aee16-7ea4-4127-9033-773529ebdac4.png">
+
+<img width="277" alt="Draw" src="https://user-images.githubusercontent.com/114605341/202548564-4e986d1d-87a9-4380-a80a-719924e9b3c5.png">
+
 ## Tech/framework used
 - JavaScript
 * HTML
@@ -59,12 +63,6 @@ Step 1: Clone the repository
 Run the following code in your terminal to download the code:
 
 git clone https://github.com/ektapass/Tic-tac-toe.git
-
-
-<img width=<img width="778" alt="Screenshot_20221117_123950" src="https://user-images.githubusercontent.com/114605341/202547892-ed221471-c82f-4c9e-bf1f-fdca1b3a50a8.png">
-
-
-
 
 
 Step 2: Using VSCode,launch the index.html with the Live Server extension. 
