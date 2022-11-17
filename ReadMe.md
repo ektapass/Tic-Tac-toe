@@ -79,8 +79,9 @@ git clone https://github.com/ektapass/Tic-tac-toe.git
 Step 2: Using VSCode,launch the index.html with the Live Server extension. 
 <img width="960" alt="2022-11-17" src="https://user-images.githubusercontent.com/114605341/202549539-ee6c1154-5ac0-49fe-a7de-5359c4361cb6.png">
 
+## Access
 
-
+ https://ektapass.github.io/Tic-tac-toe/
 
 
 
