@@ -12,6 +12,7 @@ Tic Tac Toe is a two-player game. In this game, there is a board with 3 x 3 squa
 The two players take turns putting marks on a 3x3 board. The goal of Tic Tac Toe game is to be one of the players to get three same symbols in a row - horizontally, vertically or diagonally on a 3 x 3 grid. The player who first gets 3 of his/her symbols (marks) in a row - vertically, horizontally, or diagonally wins the game, and the other loses the game. 
 
 ## Game Rules:
+
 A player can choose between two symbols with his opponent, usual game uses “X” and “O”.
 
 1. The player that gets to play first will get the "X" mark (we call him/her player 1) and the player that gets to play second will get the "O" mark (we call him/her player 2).
@@ -34,9 +35,10 @@ object-oriented programming (JavaScript) used in this project.
 
  
 ## Screenshots
-![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/Screenshot_20221117_011516.png)screenshot etc.
-![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/Screenshot_20221117_011723.png)
-![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/Screenshot_20221117_012250.png)
+![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/winx.png)
+![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/wino.png)
+![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/Draw.png)
+
 
 
 ## Tech/framework used
@@ -58,13 +60,16 @@ Step 1: Clone the repository
 Run the following code in your terminal to download the code:
 
 git clone https://github.com/ektapass/Tic-tac-toe.git
+![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/clone.png)
 
-![image](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/Screenshot_20221117_123950.png)
 
 Step 2: Using VSCode,launch the index.html with the Live Server extension. 
 
 ![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/scrshot.png)
 
+# Access
+
+https://ektapass.github.io/Tic-tac-toe/
 
 # Resources
 
