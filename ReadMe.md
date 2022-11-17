@@ -39,10 +39,16 @@ object-oriented programming (JavaScript) used in this project.
 
 <img width="257" alt="winx" src="https://user-images.githubusercontent.com/114605341/202545718-fca3649e-849b-4a68-b8e3-718beb6357ee.png">
 
+<img width="270" alt="wino" src="https://user-images.githubusercontent.com/114605341/202546023-389e4415-f5b7-42d0-b911-0b854dd4dac0.png">
 
-<img width="270" alt="wino" src="https://user-images.githubusercontent.com/114605341/202548481-e87aee16-7ea4-4127-9033-773529ebdac4.png">
 
-<img width="277" alt="Draw" src="https://user-images.githubusercontent.com/114605341/202548564-4e986d1d-87a9-4380-a80a-719924e9b3c5.png">
+
+
+
+<img width="277" alt="Draw png" src="https://user-images.githubusercontent.com/114605341/202549021-c29c46da-ed62-4985-9c84-92e4615f1189.png">
+
+
+
 
 ## Tech/framework used
 - JavaScript
@@ -65,7 +71,15 @@ Run the following code in your terminal to download the code:
 git clone https://github.com/ektapass/Tic-tac-toe.git
 
 
+
+
+
+
 Step 2: Using VSCode,launch the index.html with the Live Server extension. 
+<img width="960" alt="2022-11-17" src="https://user-images.githubusercontent.com/114605341/202549539-ee6c1154-5ac0-49fe-a7de-5359c4361cb6.png">
+
+
+
 
 
 
