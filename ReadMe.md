@@ -22,7 +22,6 @@ a. One of the players gets three of his/her marks in a row (vertically, horizont
 b. If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a draw/tie.
 
 ## Implementation Plan
-![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/flow-chart.png) IMPLEMENTATION PLAN
 
 
 ## Build status
@@ -56,12 +55,11 @@ Step 1: Clone the repository
 Run the following code in your terminal to download the code:
 
 git clone https://github.com/ektapass/Tic-tac-toe.git
-![Screenshot_20221117_123950.png]
 
 
 Step 2: Using VSCode,launch the index.html with the Live Server extension. 
 
-![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/scrshot.png)
+
 
 
 # Resources
