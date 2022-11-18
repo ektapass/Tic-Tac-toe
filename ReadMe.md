@@ -37,11 +37,11 @@ object-oriented programming (JavaScript) used in this project.
 
  
 ## Screenshots
-<<<<<<< HEAD
+
 ![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/winx.png)
 ![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/wino.png)
 ![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/Draw.png)
-=======
+
 
 <img width="257" alt="winx" src="https://user-images.githubusercontent.com/114605341/202545718-fca3649e-849b-4a68-b8e3-718beb6357ee.png">
 
@@ -52,10 +52,6 @@ object-oriented programming (JavaScript) used in this project.
 
 
 <img width="277" alt="Draw png" src="https://user-images.githubusercontent.com/114605341/202549021-c29c46da-ed62-4985-9c84-92e4615f1189.png">
-
->>>>>>> e7ae2d27247b3ce419239352cb1d7f5105971d65
-
-
 
 ## Tech/framework used
 - JavaScript
@@ -76,15 +72,11 @@ Step 1: Clone the repository
 Run the following code in your terminal to download the code:
 
 git clone https://github.com/ektapass/Tic-tac-toe.git
-<<<<<<< HEAD
+
 ![Alt text](../../../../../../C:/Users/ektab/OneDrive/Documents/Tic-Tac-Toe%20Game/clone.png)
-=======
+
 <img width="681" alt="Screenshot_20221117_031725" src="https://user-images.githubusercontent.com/114605341/202551171-402b57b0-4c8c-45c8-9741-345fd1066fb9.png">
 
-
-
-
->>>>>>> e7ae2d27247b3ce419239352cb1d7f5105971d65
 
 
 Step 2: Using VSCode,launch the index.html with the Live Server extension. 
