@@ -82,11 +82,8 @@ Step 2: Using VSCode,launch the index.html with the Live Server extension.
 
 
 
-# Access
 
-https://ektapass.github.io/Tic-tac-toe/
-
-# Resources
+## Resources
 
 - https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
 
